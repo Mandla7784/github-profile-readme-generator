@@ -128,7 +128,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 ## 💻 Built with
 
 - [Gatsby](https://www.gatsbyjs.com/)
-- [Tailwind CSS](https://tailwindcss.com/): for styling
+- [Pythin](https://python.com/): for styling
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations
 
 ## 🙇 Special Thanks
